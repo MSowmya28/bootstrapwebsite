@@ -34,25 +34,25 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-Home Page:
-   <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>BPRD</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-<body>
+# Home Page:
+    <!DOCTYPE html>
+         <html lang="en">
+        <head>
+    <title>BPRD</title>
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+    <body>
 
-<div class="p-5 bg-primary text-white text-center">
+    <div class="p-5 bg-primary text-white text-center">
     <h1>Bureau of Police Research and Development</h1>
     <h3>Ministry of Home Affairs</h3> 
-</div>
+    </div>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <div class="container-fluid">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <div class="container-fluid">
     <ul class="navbar-nav">
         <li class="nav-item">
             <a class="nav-link active" href="/static/home.html">Home</a>
@@ -162,11 +162,11 @@ Home Page:
             <a class="nav-link active" href="/static/about.html">About Us</a>
           </li>
     </ul>
-  </div>
-</nav>
+    </div>
+    </nav>
 
-<div class="container mt-5">
-  <div class="row">
+    <div class="container mt-5">
+    <div class="row">
     <div class="col-sm-4">
       <img src=".//GD.png"   style="height:300px;"  alt="police">
       <h2>Director General</h2>
@@ -209,41 +209,41 @@ Home Page:
       <p>The verticals of the BPR&D on Research, Modernization, Capacity Building and the National Police Missions have contributed substantially in studying problems and defining solutions by Promoting Good Practices and Standards.</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
-  </div>
-</div>
+    </div>
+    </div>
 
-<div class="mt-5 p-4 bg-dark text-white text-center">
-  <p>The Bureau of Police Research and Development, was set up on 28 August 1970 in furtherance of the objective of the Government of India for the modernisation of police forces. It has evolved as a multifaceted, consultancy organisation.</p>
-</div>
+    <div class="mt-5 p-4 bg-dark text-white text-center">
+    <p>The Bureau of Police Research and Development, was set up on 28 August 1970 in furtherance of the objective of the Government of India for the modernisation of police forces. It has evolved as a multifaceted, consultancy organisation.</p>
+    </div>
 
-</body>
-</html>
+    </body>
+    </html>
 
-Gallery Page:
+    Gallery Page:
     <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>BPRD</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-  <style>
-  .fakeimg {
+    <html lang="en">
+    <head>
+    <title>BPRD</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+    .fakeimg {
     height: 200px;
     background: #aaa;
-  }
-  </style>
-</head>
-<body>
+    }
+    </style>
+    </head>
+    <body>
 
-<div class="p-5 bg-primary text-white text-center">
+    <div class="p-5 bg-primary text-white text-center">
     <h1>Bureau of Police Research and Development</h1>
     <h3>Ministry of Home Affairs</h3> 
-</div>
+    </div>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <div class="container-fluid">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <div class="container-fluid">
     <ul class="navbar-nav">
         <li class="nav-item">
             <a class="nav-link active" href="/static/home.html">Home</a>
@@ -353,11 +353,11 @@ Gallery Page:
             <a class="nav-link active" href="/static/about.html">About Us</a>
           </li>
     </ul>
-  </div>
-</nav>
+    </div>
+    </nav>
 
-<div class="container mt-5">
-  <div class="row">
+    <div class="container mt-5">
+    <div class="row">
     <div class="col-sm-4">
         <table class="table table-bordered">
             <thead>
@@ -411,41 +411,41 @@ Gallery Page:
       <img src=".//G2.png"   style="height:150px;"  alt="police">
       <img src=".//G3.png"   style="height:150px;"  alt="police">
     </div>
-  </div>
-</div>
+    </div>
+    </div>
 
-<div class="mt-5 p-4 bg-dark text-white text-center">
-  <p>The Bureau of Police Research and Development, was set up on 28 August 1970 in furtherance of the objective of the Government of India for the modernisation of police forces. It has evolved as a multifaceted, consultancy organisation.</p>
-</div>
+    <div class="mt-5 p-4 bg-dark text-white text-center">
+    <p>The Bureau of Police Research and Development, was set up on 28 August 1970 in furtherance of the objective of the Government of India for the modernisation of police forces. It has evolved as a multifaceted, consultancy organisation.</p>
+    </div>
 
-</body>
-</html>
+    </body>
+    </html>
 
-about us:
-     <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>BPRD</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-  <style>
-  .fakeimg {
+    about us:
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <title>BPRD</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+    .fakeimg {
     height: 200px;
     background: #aaa;
-  }
-  </style>
-</head>
-<body>
+    }
+    </style>
+    </head>
+    <body>
 
-<div class="p-5 bg-primary text-white text-center">
+    <div class="p-5 bg-primary text-white text-center">
     <h1>Bureau of Police Research and Development</h1>
     <p>Ministry of Home Affairs</p> 
-</div>
+    </div>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <div class="container-fluid">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <div class="container-fluid">
     <ul class="navbar-nav">
         <li class="nav-item">
             <a class="nav-link active" href="/static/home.html">Home</a>
@@ -555,11 +555,11 @@ about us:
             <a class="nav-link active" href="/static/about.html">About Us</a>
           </li>
     </ul>
-  </div>
-</nav>
+    </div>
+    </nav>
 
-<div class="container mt-5">
-  <div class="row">
+    <div class="container mt-5">
+    <div class="row">
     <div class="col-sm-4">
         <table class="table table-bordered">
             <thead>
@@ -590,15 +590,15 @@ about us:
       <p>Research, Statistics and Publication</p>
       
     </div>
-  </div>
-</div>
+    </div>
+    </div>
 
-<div class="mt-5 p-4 bg-dark text-white text-center">
-  <p>The Bureau of Police Research and Development, was set up on 28 August 1970 in furtherance of the objective of the Government of India for the modernisation of police forces. It has evolved as a multifaceted, consultancy organisation.</p>
-</div>
+    <div class="mt-5 p-4 bg-dark text-white text-center">
+    <p>The Bureau of Police Research and Development, was set up on 28 August 1970 in furtherance of the objective of the Government of India for the modernisation of police forces. It has evolved as a multifaceted, consultancy organisation.</p>
+    </div>
 
-</body>
-</html>
+    </body>
+    </html>
 
 ## OUTPUT:
 
